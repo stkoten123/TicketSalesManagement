@@ -30,13 +30,13 @@ Các chức năng chính:
 -	Gửi khảo sát và thu thập phản hồi từ người tham gia sau sự kiện.
 6.	Quảng bá sự kiện:
 -	Hỗ trợ quảng bá sự kiện qua các kênh truyền thông xã hội và email.
-Lợi ích mang lại:
+  Lợi ích mang lại:
 -	Tiện lợi: Người tham gia có thể dễ dàng đăng ký và mua vé trực tuyến.
 -	Nhanh chóng: Quá trình check-in diễn ra nhanh chóng và chính xác.
 -	Quản lý hiệu quả: Đơn vị tổ chức dễ dàng quản lý thông tin sự kiện và người tham gia.
 -	Tăng cường tương tác: Nhà tài trợ có thể tiếp cận và tương tác với khách hàng một cách hiệu quả.
 -	Thông tin chi tiết: Cung cấp báo cáo và thống kê chi tiết về sự kiện.
-Công nghệ sử dụng:
+  Công nghệ sử dụng:
 -	Front-end: ReactJS.
 -	Back-end: framework spring boot
 -	Database: MySQL.
